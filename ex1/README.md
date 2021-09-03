@@ -5,7 +5,7 @@ In this part of this exercise, you will implement linear regression with one var
 > The file ex1data1.txt contains the dataset for our linear regression problem. The first column is the population of a city > and the second column is the profit of a food truck in that city. A negative value for profit indicates a loss. This script 
 > has already been set up to load this data for you.
 
-###Data
+### Data
 ex1data1.txt
 
 ## _Problem 2 - Linear Regression with Multivariable_
@@ -16,10 +16,10 @@ In this part, you will implement linear regression with multiple variables to pr
 > house (in square feet), the second column is the number of bedrooms, and the third column is the price of the house. Run 
 > this section now to preview the data.
 
-###Data
+### Data
 ex1data1.txt
 
-### Solution
+## Solution
  [Solution]
 
 
