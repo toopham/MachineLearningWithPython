@@ -30,4 +30,4 @@ ex1data1.txt
    [Machine Learning]: <https://www.coursera.org/learn/machine-learning/home/info>
 
 
-   [Solution]: <https://github.com/toopham/MachineLearningWithPython/ex1/linear-regression.ipynb>
+   [Solution]: <https://github.com/toopham/MachineLearningWithPython/blob/main/ex1/linear-regression.ipynb>
