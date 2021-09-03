@@ -1,125 +1,33 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "id": "52ef785e",
-   "metadata": {},
-   "source": [
-    "# Exercise 1 - Linear Regression with Python"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "25fe1907",
-   "metadata": {},
-   "source": [
-    "We will use a set of data $(x,y)$ and apply Gradient Descent to get a fitted line $L(x) = \\theta_0 + \\theta_1 x$ that will minimize the cost function $J(\\theta)$\n",
-    "\n",
-    "##Libraries\n",
-    "-numpy\n",
-    "-pandas\n",
-    "\n",
-    "First we will import the necessary libraries"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 10,
-   "id": "8924e41e",
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "import numpy as np\n",
-    "import pandas"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "e68255bb",
-   "metadata": {},
-   "source": [
-    "Import data ex1data1.txt into Python"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 11,
-   "id": "57f9ac9b",
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "data=pandas.read_csv('ex1data1.txt',sep=',',na_values='.')"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 12,
-   "id": "3946565c",
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "     6.1101    17.592\n",
-      "0    5.5277   9.13020\n",
-      "1    8.5186  13.66200\n",
-      "2    7.0032  11.85400\n",
-      "3    5.8598   6.82330\n",
-      "4    8.3829  11.88600\n",
-      "..      ...       ...\n",
-      "91   5.8707   7.20290\n",
-      "92   5.3054   1.98690\n",
-      "93   8.2934   0.14454\n",
-      "94  13.3940   9.05510\n",
-      "95   5.4369   0.61705\n",
-      "\n",
-      "[96 rows x 2 columns]\n"
-     ]
-    }
-   ],
-   "source": [
-    "print(data)"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "id": "e41f8e2b",
-   "metadata": {},
-   "source": [
-    "Define our training sets to be $X$=input and $y$=output\n",
-    "\n",
-    "Note: Since $X\\theta = y$, the first column of $X$ will always be a column of ones to correspond to the first parameter $\\theta_0$ of $\\theta = \\begin{bmatrix} \\theta_0 \\\\ \\theta_1 \\end{bmatrix}$"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "9ee677f5",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3 (ipykernel)",
-   "language": "python",
-   "name": "python3"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.9.0"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+# Exercise 1
+## _Problem 1 - Linear Regression with One Variable_
+
+In this part of this exercise, you will implement linear regression with one variable to predict profits for a food truck. Suppose you are the CEO of a restaurant franchise and are considering different cities for opening a new outlet. The chain already has trucks in various cities and you have data for profits and populations from the cities. You would like to use this data to help you select which city to expand to next.
+> The file ex1data1.txt contains the dataset for our linear regression problem. The first column is the population of a city > and the second column is the profit of a food truck in that city. A negative value for profit indicates a loss. This script 
+> has already been set up to load this data for you.
+
+###Data
+ex1data1.txt
+
+## _Problem 2 - Linear Regression with Multivariable_
+
+In this part, you will implement linear regression with multiple variables to predict the prices of houses. Suppose you are selling your house and you want to know what a good market price would be. One way to do this is to first collect information on recent houses sold and make a model of housing prices.
+
+> The file ex1data2.txt contains a training set of housing prices in Portland, Oregon. The first column is the size of the 
+> house (in square feet), the second column is the number of bedrooms, and the third column is the price of the house. Run 
+> this section now to preview the data.
+
+###Data
+ex1data1.txt
+
+### Solution
+ [Solution]
+
+
+
+
+
+   [Andrew Ng]: <https://www.coursera.org/instructor/andrewng>
+   [Machine Learning]: <https://www.coursera.org/learn/machine-learning/home/info>
+
+
+   [Solution]: <https://github.com/toopham/MachineLearningWithPython/ex1/linear-regression.ipynb>
