@@ -17,21 +17,11 @@ These are solutions written in Python to the exercises given in Coursera [Machin
 - Exercise 7
 - Exercise 8
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+> These solutions are meant as learning tools.
+> I used my solutions in MatLab and translated it into 
+> the language of Python.
 
 
-For production environments...
-
-```sh
-npm install --production
-NODE_ENV=production node app
-```
 
 ## Exercises
 
