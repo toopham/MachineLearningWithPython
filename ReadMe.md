@@ -28,41 +28,28 @@ These are solutions written in Python to the exercises given in Coursera [Machin
 
 | Exercises | README |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Exercise 1 | [ex1/README.md][ex1] |
+| Exercise 2 | [ex2/README.md][ex2] |
+| Exercise 3 | [ex3/README.md][ex3] |
+| Exercise 4 | [ex4/README.md][ex4] |
+| Exercise 5 | [ex5/README.md][ex5] |
+| Exercise 6 | [ex6/README.md][ex6] |
+| Exercise 7 | [ex6/README.md][ex7] |
+| Exercise 8 | [ex6/README.md][ex8] |
 
 ## Additional Exercises
 | Exercises | README |
 | ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
-
-[Andrew Ng]: <https://www.coursera.org/instructor/andrewng>
+   [Andrew Ng]: <https://www.coursera.org/instructor/andrewng>
    [Machine Learning]: <https://www.coursera.org/learn/machine-learning/home/info>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
 
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+
+   [ex1]: <https://github.com/toopham/MachineLearningWithPython/ex1/README.md>
+   [ex2]: <https://github.com/toopham/MachineLearningWithPython/ex1/README.md>
+   [ex3]: <https://github.com/toopham/MachineLearningWithPython/ex1/README.md>
+   [ex4]: <https://github.com/toopham/MachineLearningWithPython/ex1/README.md>
+   [ex5]: <https://github.com/toopham/MachineLearningWithPython/ex1/README.md>
+   [ex6]: <https://github.com/toopham/MachineLearningWithPython/ex1/README.md>
+   [ex7]: <https://github.com/toopham/MachineLearningWithPython/ex1/README.md>
+   [ex8]: <https://github.com/toopham/MachineLearningWithPython/ex1/README.md>
