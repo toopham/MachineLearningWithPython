@@ -23,7 +23,7 @@ In this part, you will implement linear regression with multiple variables to pr
 ex1data2.txt
 
 ## Solution
- [Solution]
+ [Solution2]
 
 
 
