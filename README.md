@@ -8,34 +8,24 @@ These are solutions written in Python to the exercises given in Coursera [Machin
 
 ## Exercises
 
-- Exercise 1 - Linear Regression
-- Exercise 2 - Logistic Regression
-- Exercise 3
-- Exercise 4
-- Exercise 5
-- Exercise 6
-- Exercise 7
-- Exercise 8
+
 
 > These solutions are meant as learning tools.
 > I used my solutions in MatLab and translated it into
-> the language of Python.
+> the language of Python. Solutions will become available as I am still working through the course. Once a solution is available, I will post the link to the README.md below
 
 
 
-## Exercises
-
-
-| Exercises | README |
+| Exercises | Description | README |
 | ------ | ------ |
-| Exercise 1 | [ex1/README.md][ex1] |
-| Exercise 2 | [ex2/README.md][ex2] |
-| Exercise 3 | [ex3/README.md][ex3] |
-| Exercise 4 | [ex4/README.md][ex4] |
-| Exercise 5 | [ex5/README.md][ex5] |
-| Exercise 6 | [ex6/README.md][ex6] |
-| Exercise 7 | [ex6/README.md][ex7] |
-| Exercise 8 | [ex6/README.md][ex8] |
+| Exercise 1 | Linear Regression | [ex1/README.md][ex1] |
+| Exercise 2 | Logistic Regression | [ex2/README.md][ex2] |
+| Exercise 3 | |  |
+| Exercise 4 | |  |
+| Exercise 5 | |  |
+| Exercise 6 | |  |
+| Exercise 7 | |  |
+| Exercise 8 | |  |
 
 ## Additional Exercises
 | Exercises | README |
