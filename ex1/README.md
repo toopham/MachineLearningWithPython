@@ -8,6 +8,9 @@ In this part of this exercise, you will implement linear regression with one var
 ### Data
 ex1data1.txt
 
+## Solution
+ [Solution1]
+
 ## _Problem 2 - Linear Regression with Multivariable_
 
 In this part, you will implement linear regression with multiple variables to predict the prices of houses. Suppose you are selling your house and you want to know what a good market price would be. One way to do this is to first collect information on recent houses sold and make a model of housing prices.
@@ -17,7 +20,7 @@ In this part, you will implement linear regression with multiple variables to pr
 > this section now to preview the data.
 
 ### Data
-ex1data1.txt
+ex1data2.txt
 
 ## Solution
  [Solution]
@@ -30,4 +33,5 @@ ex1data1.txt
    [Machine Learning]: <https://www.coursera.org/learn/machine-learning/home/info>
 
 
-   [Solution]: <https://github.com/toopham/MachineLearningWithPython/blob/main/ex1/linear-regression.ipynb>
+  [Solution1]: <https://github.com/toopham/MachineLearningWithPython/blob/main/ex1/linear-regression.ipynb>
+  [Solution2]: <https://github.com/toopham/MachineLearningWithPython/blob/main/ex1/linear-regression-multi.ipynb>

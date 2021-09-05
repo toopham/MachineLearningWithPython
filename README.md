@@ -2,7 +2,7 @@
 ## _WITH PYTHON_
 
 
-These are solutions written in Python to the exercises given in Coursera [Machine Learning] course with [Andrew Ng]. 
+These are solutions written in Python to the exercises given in Coursera [Machine Learning] course with [Andrew Ng].
 
 
 
@@ -18,7 +18,7 @@ These are solutions written in Python to the exercises given in Coursera [Machin
 - Exercise 8
 
 > These solutions are meant as learning tools.
-> I used my solutions in MatLab and translated it into 
+> I used my solutions in MatLab and translated it into
 > the language of Python.
 
 
@@ -45,8 +45,8 @@ These are solutions written in Python to the exercises given in Coursera [Machin
    [Machine Learning]: <https://www.coursera.org/learn/machine-learning/home/info>
 
 
-   [ex1]: <https://github.com/toopham/MachineLearningWithPython/ex1/README.md>
-   [ex2]: <https://github.com/toopham/MachineLearningWithPython/ex1/README.md>
+   [ex1]: <https://github.com/toopham/MachineLearningWithPython/blob/main/ex1/README.md>
+   [ex2]: <https://github.com/toopham/MachineLearningWithPython/blob/main/ex2/README.md>
    [ex3]: <https://github.com/toopham/MachineLearningWithPython/ex1/README.md>
    [ex4]: <https://github.com/toopham/MachineLearningWithPython/ex1/README.md>
    [ex5]: <https://github.com/toopham/MachineLearningWithPython/ex1/README.md>
