@@ -17,7 +17,7 @@ These are solutions written in Python to the exercises given in Coursera [Machin
 
 
 | Exercises | Description | README |
-| ------ | ------ |
+| ------ | ------ | ------ |
 | Exercise 1 | Linear Regression | [ex1/README.md][ex1] |
 | Exercise 2 | Logistic Regression | [ex2/README.md][ex2] |
 | Exercise 3 | |  |
