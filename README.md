@@ -3,7 +3,7 @@
 
 
 These are solutions written in Python to the exercises given in Coursera [Machine Learning] course with [Andrew Ng].
-
+TEST 123
 
 
 ## Exercises
